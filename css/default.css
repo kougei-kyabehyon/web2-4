@@ -58,6 +58,7 @@ background-color: lightcoral;
 }
 #ingredient{
 border: 2px solid silver;
+  border-collapse: collapse;
 }
 
 th,td{
