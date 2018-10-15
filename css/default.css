@@ -21,3 +21,13 @@ float: left;
   margin-right:30px;
 
 }
+
+.explanation{
+float: left;
+}
+
+dt{
+clear: left;
+  float: left;
+  font-weight: bold;
+}
