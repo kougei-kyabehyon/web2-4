@@ -29,8 +29,35 @@ float: left;
 .btn
 {
 -webkit-appearance: none;
+  -webkit-border-radius: 0;
   margin: 5px;
+  width: 100px;
+  height: 40px;
+  padding: 10px;
+  border: none;
+  font-size: 32px;
 }
+
+.btn:hover{
+color: green;
+}
+
+.btn:active
+{
+color: red;
+
+}
+
+.btn-submit{
+background-color: silver;
+
+}
+
+.btn-reset{
+background-color: lightcoral;
+}
+
+
 dt{
 clear: left;
   float: left;
