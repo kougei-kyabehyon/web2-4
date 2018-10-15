@@ -56,8 +56,13 @@ background-color: silver;
 .btn-reset{
 background-color: lightcoral;
 }
+#ingredient{
+border: 2px solid silver;
+}
 
-
+th,td{
+  border:1px solid silver; 
+}
 dt{
 clear: left;
   float: left;
