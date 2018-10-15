@@ -61,8 +61,20 @@ border: 2px solid silver;
   border-collapse: collapse;
 }
 
-th,td{
-  border:1px solid silver; 
+th
+{
+border:1px solid green;
+  background-color: mistyrose;
+  padding: 5px;
+  width: 100px;
+  text-aligin: center;
+}
+
+td{
+  border: 1px solid silver; 
+  padding: 5px;
+  width: 80px;
+  text-align: right;
 }
 dt{
 clear: left;
