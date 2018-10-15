@@ -10,6 +10,12 @@ border: green 1px solid;
 background-color  white;
 
 }
+.jaga_picture:after{
+content:"";
+  clear:both;
+  display:block;
+
+}
 .photo{
 float: left;
   margin-right:30px;
